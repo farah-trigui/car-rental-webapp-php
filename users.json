@@ -1,0 +1,20 @@
+[
+    {
+        "fullName": "Jane Admin",
+        "email": "jane.admin@example.com",
+        "password": "admin123",
+        "isAdmin": true
+    },
+    {
+        "fullName": "Farah Trigui",
+        "email": "farahtrigui7@gmail.com",
+        "password": "Salemkhouya123**",
+        "isAdmin": false
+    },
+    {
+        "fullName": "aaaaaaaaaaaa",
+        "email": "aaaaaaa@gmail.com",
+        "password": "Samarasbalik123456****",
+        "isAdmin": false
+    }
+]

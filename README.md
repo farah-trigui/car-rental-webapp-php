@@ -1,7 +1,7 @@
 # 🚗 Car Rental Web Application
 
 A car rental system built with **PHP**, featuring user authentication,
-car management, booking functionality, and dynamic filtering — all presented in a web-friendly design.
+car management, booking functionality, and dynamic filtering ; all presented in a web-friendly design.
 
 ---
 

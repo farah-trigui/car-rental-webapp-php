@@ -34,4 +34,29 @@ car management, booking functionality, and dynamic filtering — all presented i
 - HTML
 -  CSS
 
+---
 
+## 🎨 Screenshots
+
+### 🏴 Landing Page
+<img src="screenshots/landing-page.png" width="400"/>
+
+
+### 🌫️ Login Page
+<img src="screenshots/login-page.png" width="400"/>
+
+
+### 🌫️ Registration Page
+<img src="screenshots/registration-page.png" width="400"/>
+
+### 👨🏻‍💼 Admin Page
+<img src="screenshots/admin-page.png" width="400"/>
+
+### 👨🏻‍💻 User page
+<img src="screenshots/user-page.png" width="400"/>
+
+### 🗓️ Booking page 
+<img src="screenshots/booking-page.png" width="400"/>
+
+### 📌 Reservation page 
+<img src="screenshots/reservation-page.png" width="400"/>
